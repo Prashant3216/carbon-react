@@ -11,7 +11,7 @@ import {
   Button,
 } from "@carbon/react";
 import { Link } from "react-router-dom";
-import { InfoCard, InfoSection } from "../../components/info/InfoSection";
+import { InfoCard, InfoSection } from "../../components/Info/InfoSection";
 import {
   Advocate,
   Globe,

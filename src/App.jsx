@@ -3,7 +3,7 @@ import { BrowserRouter, Link, Route, Routes } from "react-router-dom";
 import routes from "./routes/index";
 import { Content, Theme } from "@carbon/react";
 
-function App() {
+const App = () => {
   return (
     <>
       <BrowserRouter>
@@ -14,6 +14,6 @@ function App() {
       </BrowserRouter>
     </>
   );
-}
+};
 
 export default App;
