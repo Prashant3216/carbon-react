@@ -25,7 +25,7 @@ export const headers = [
   },
 ];
 
-export const rows = [
+export const staticRows = [
   {
     id: "1",
     name: "Repo 1",
